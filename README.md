@@ -9,6 +9,8 @@ This project captures and processes PPG signals using a MAX30102 sensor for real
 - **Bluetooth Communication**: Sends processed data to connected clients.
 - **Data Visualization**: Displays PPG signals in time and frequency domains.
 
+![LINK](Time_Frequency_SignalChart.png)
+
 ---
 
 ## System Requirements
