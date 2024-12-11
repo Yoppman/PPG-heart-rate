@@ -1,4 +1,4 @@
-PULL REQUEST
+
 # Real-Time PPG Signal Processing and Heart Rate Analysis
 
 This project captures and processes PPG signals using a MAX30102 sensor for real-time heart rate analysis. It also visualizes data and transmits metrics to a connected client via Bluetooth.
